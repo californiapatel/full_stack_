@@ -1,0 +1,41 @@
+.main{
+  height: 400px;
+  width: 400px;
+}
+.asa{
+  height: 600px;
+  display: flex;
+  border: 1px solid black;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.img{
+  padding-top: 100px;
+  height: 300px;
+  width: inherit;
+}
+.img img{
+  height: 100%;
+  width: 100%;
+}
+.heading{
+  height: 50px;
+  width: inherit;
+  text-align: center;
+}
+#f{
+  margin-left: 40%;
+  margin-top: 10px;
+}
+
+#f1{
+  margin-left: 45%;
+  margin-top: 60px;
+}
+button{
+  height: 40px;
+  width: 200px;
+  border-radius:20px;
+  border: none;
+  /* margin-left: 20px; */
+}
